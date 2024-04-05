@@ -1,0 +1,17 @@
+// ASSIGNMENT 
+// REVERSE NUMBER OF GIVEN NUMBER
+
+// PREPROCESSOR DIRECTIVE INPUT/OUPTUT HEADER FILE
+#include <iostream>
+
+// INCLUDE CLASS DEFINITION HEADER FILE
+#include "Header.h"
+
+// HEADING OF THE MAIN () FUNCTION 
+int main (void) {
+     
+     // CREATE OBJECT OF THE CLASS
+     Header objVal;
+     objVal.getResutl();
+    return 0; // IT INDICATE THAT PROGRAM EXECUTE SUCCESSFULLY
+}

@@ -1,0 +1,15 @@
+// CLASS DECLARATIONS SECTIONS
+// CREATE A CLASS NAMED AS Header 
+
+class Header {
+   
+   // PUBLIC ACCESS SPECIFIER
+   public:
+   // MEMBER FUNCTION OF THE CLASS
+   void setValue (int);
+   int getValue ();
+   void displayMessage ();
+   // PRIVATE ACCESS SPECIFIER
+   private:
+   int value; // DECLARATION OF PRIVATE DATA MEMBER
+}; // SEMICOLON ENDS THAT CLASS AND COMPILER START READING OBJECT OF THE CLASS
